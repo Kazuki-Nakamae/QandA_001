@@ -28,13 +28,6 @@ library(ggplot2)
 #[1] TRUE
 ### END ###
 
-# The return value of melt() may be "data frame"
-# Confirm the data type
-# >is.data.frame(dm)
-### OUTPUT ###
-#[1] TRUE
-### END ###
-
 # All "data frames" have a row names attribute.
 # You can check this attribute using rownames()
 # >rownames(dm)
